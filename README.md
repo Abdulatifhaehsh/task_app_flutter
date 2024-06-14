@@ -1,6 +1,3 @@
-Certainly! Below is the complete README.md content with all the details included.
-
-```markdown
 # Task Manager App
 
 ## Overview
@@ -162,4 +159,3 @@ For any questions or clarifications regarding the test project, feel free to rea
 
 ## Stay in touch
 - Author - [Abdulatif Hashash](https://www.linkedin.com/in/abdallatif-hashash-8aa594202/)
-```
